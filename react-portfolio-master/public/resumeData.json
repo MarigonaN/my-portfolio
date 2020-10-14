@@ -3,9 +3,9 @@
     "name": "Marigona Nuhija",
     "occupation": "ReactJS Developer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. ",
-    "image": "marigona.png",
+    "image": "myPic.jpeg",
     "bio": "My name is Marigona, I'm a MERN Stack Developer. ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+
     "email": "marigonanuhija@gmail.com.com",
     "phone": "+38348411001",
     "address": {
@@ -14,7 +14,7 @@
       "state": "Kosova",
       "zip": "20000"
     },
-    "website": "http://www.timbakerdev.com",
+ 
     "social": [
       {
         "name": "linkedin",

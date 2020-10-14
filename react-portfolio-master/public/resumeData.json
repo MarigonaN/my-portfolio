@@ -79,17 +79,6 @@
         "url": "https://www.youtube.com/watch?v=fDohdG67a0I"
       }
     ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you.",
-        "user": "John Doe"
-      },
-      {
-        "text": "That Marigona Nuhija must be one of the most brilliant developers I've ever met!",
-        "user": "Jane Doe"
-      }
-    ]
   }
+
 }

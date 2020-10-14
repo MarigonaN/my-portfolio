@@ -4,7 +4,7 @@
     "occupation": "ReactJS Developer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. ",
     "image": "marigona.png",
-    "bio": "My name is Marigona, I'm a Full Stack ReactJS Developer. ",
+    "bio": "My name is Marigona, I'm a MERN Stack Developer. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "marigonanuhija@gmail.com.com",
     "phone": "+38348411001",
@@ -43,23 +43,32 @@
     "skills": [
       {
         "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
         "level": "100%"
       },
       {
         "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "Express.js",
+        "level": "70%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+     
+      {
+        "name": "Git",
+        "level": "70%"
       }
     ]
   },

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-
+import { AiFillGithub } from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
 class Footer extends Component {
   render() {
     if (this.props.data) {
@@ -18,7 +19,22 @@ class Footer extends Component {
       <footer>
         <div className="row">
           <div className="twelve columns">
-            <ul className="social-links">{networks}</ul>
+            <ul className="social">
+              <li>
+                <a href="https://github.com/MarigonaN" target="_blank">
+                  <AiFillGithub size={50} />
+                </a>
+              </li>
+              <li>
+                {" "}
+                <a
+                  href="https://www.linkedin.com/in/marigona-nuhija-02275a173/"
+                  target="_blank"
+                >
+                  <FaLinkedinIn size={50} />
+                </a>
+              </li>
+            </ul>
 
             <ul>
               <li>Modified with love by Me ♥️</li>

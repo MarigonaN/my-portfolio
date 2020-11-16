@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-
+import { AiFillGithub } from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
 class Header extends Component {
   render() {
     if (this.props.data) {
@@ -44,7 +45,22 @@ class Header extends Component {
               I'm a {city} based <span>{occupation}</span>. {description}.
             </h3>
             <hr />
-            <ul className="social">{networks}</ul>
+            <ul className="social">
+              <li>
+                <a href="https://github.com/MarigonaN" target="_blank">
+                  <AiFillGithub size={50} />
+                </a>
+              </li>
+              <li>
+                {" "}
+                <a
+                  href="https://www.linkedin.com/in/marigona-nuhija-02275a173/"
+                  target="_blank"
+                >
+                  <FaLinkedinIn size={50} />
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
 

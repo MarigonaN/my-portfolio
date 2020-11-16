@@ -2,7 +2,7 @@
   "main": {
     "name": "Marigona Nuhija",
     "occupation": "ReactJS Developer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. ",
+    "description": "Full Stack React Developer. ",
     "image": "myPic.jpeg",
     "bio": "My name is Marigona, I'm a MERN Stack Developer. ",
 
@@ -14,7 +14,7 @@
       "state": "Kosova",
       "zip": "20000"
     },
- 
+
     "social": [
       {
         "name": "linkedin",
@@ -29,16 +29,15 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Some of my skills",
     "education": [
       {
         "school": "University of Prizren",
         "degree": "Computer Science",
         "graduated": "January 2021"
-       
       }
     ],
-  
+
     "skills": [
       {
         "name": "ReactJs",
@@ -64,7 +63,7 @@
         "name": "Node.js",
         "level": "70%"
       },
-     
+
       {
         "name": "Git",
         "level": "70%"
@@ -79,7 +78,7 @@
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=8ACUmae79Z8"
       },
-      
+
       {
         "title": "Netflix Clone",
         "category": "Facebook Clone built with ReactJS",
@@ -88,5 +87,4 @@
       }
     ]
   }
-
 }

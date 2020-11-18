@@ -31,9 +31,23 @@
     "skillmessage": "Some of my skills",
     "education": [
       {
+        "school": "Strive School",
+        "img": "https://coursereport-production.imgix.net/uploads/school/logo/1045/original/strive-20school-20logo.png?w=200&h=200",
+        "degree": "Web Development",
+        "graduated": "November"
+      },
+      {
         "school": "University of Prizren",
         "degree": "Computer Science",
         "graduated": "January 2021"
+      }
+    ],
+    "workexperience": [
+      {
+        "role": "Administrator",
+        "company": "ELTECO",
+        "timeofWork": "Jun 2019 - Jan 2020",
+        "Description": "Coordinate office activities and operations to secure efficiency and compliance to company policies • Supervise staff and divide responsibilities to ensure performance • Manage agendas and the transport • Manage phone calls and correspondence • Create and update records and databases .• Track stocks of office supplies and place orders when necessary"
       }
     ],
 

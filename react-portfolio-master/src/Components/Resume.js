@@ -7,7 +7,7 @@ class Resume extends Component {
         workexperience
       ) {
         return (
-          <div key={workexperience.work}>
+          <div key={workexperience.role}>
             <h3>{workexperience.role}</h3>
             <p>{workexperience.company}</p>
             <em className="date">{workexperience.timeofWork}</em>

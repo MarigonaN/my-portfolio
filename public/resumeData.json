@@ -4,7 +4,7 @@
     "occupation": "ReactJS Developer",
     "description": "Full Stack React Developer. ",
     "image": "myPic.jpeg",
-    "bio": "My name is Marigona, I'm a MERN Stack Developer. ",
+    "bio": "My name is Marigona, I'm a MERN Stack Developer.I love the development of the web and the digital world and for the same reason, I decided to participate in the most wonderful STRIVE school, which gave me the title and the spirit of a web developer.And ... I will not stop learning",
 
     "email": "marigonanuhija@gmail.com",
     "phone": "+38348411001",
@@ -86,17 +86,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack Linkedin Clone",
-        "category": "Linkedin Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=8ACUmae79Z8"
-      },
-
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=fDohdG67a0I"
+        "title": "E-Medicine",
+        "category": "This project was done with these technologies: ReactJS(react hooks and redux), Express.js, Node.js, MongoDB, HTML&CSS3",
+        "image": "e-medicine.jpg",
+        "url": "https://e-medicine-fe.herokuapp.com/"
       }
     ]
   }

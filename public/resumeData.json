@@ -4,7 +4,7 @@
     "occupation": "ReactJS Developer",
     "description": "Full Stack React Developer. ",
     "image": "myPic.jpeg",
-    "bio": "My name is Marigona, I'm a MERN Stack Developer.I love the development of the web and the digital world and for the same reason, I decided to participate in the most wonderful STRIVE school, which gave me the title and the spirit of a web developer.And ... I will not stop learning",
+    "bio": "My name is Marigona. Since I was a child, I've been drawn to technology and its possibilities. From a small kid that loved video games to a teen that loved the internet culture and all its quirks, to an adult that still loves both. The idea of being part of this world, where I have, on the tips of my fingers, the opportunity of creating and exploring so many possibilities, gives me the drive that I feel to try, to learn more! This drive led me to pursue my career as a Web Developer, where I can put my logic and problem-solving skills to the test every day. And few things give me as much satisfaction as the one of writing beautiful, elegant code, or that give me the same thrill that finally fixing a stubborn bug gives me. Such a vast horizon full of things to learn, to fix, and to build, keep my passion for this craft going strong. Skills: HTML & CSS, Bootstrap, JavaScript, ReactJs ( Redux & Hooks), ExpressJs, NodeJS, MongoDB & SQL ",
 
     "email": "marigonanuhija@gmail.com",
     "phone": "+38348411001",
@@ -54,7 +54,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "95%"
+        "level": "85%"
       },
       {
         "name": "HTML5",
